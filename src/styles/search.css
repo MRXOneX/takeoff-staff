@@ -1,0 +1,11 @@
+.wrapper-search {
+    width: auto;
+}
+
+.wrapper-search input {
+    border-radius: 10px;
+    outline: none;
+    padding: 10px;
+
+    border: 1px solid violet;
+}
